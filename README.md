@@ -148,12 +148,6 @@ This classification system enables:
 - **Research Support:** Tools for agricultural research and crop analysis
 - **Market Differentiation:** Enhanced product identification for premium market positioning
 
-## 👥 Development Team
-
-**Released by:**
-- Abed El Aziz Bouebsa
-
-
 ## 🔒 Confidentiality Notice
 
 **Dataset Access:** The Deglet Nour Date Fruit Dataset used in this project is confidential and restricted to authorized personnel only. Access to the dataset requires proper authorization and is intended for sharing among approved team members and collaborators.
